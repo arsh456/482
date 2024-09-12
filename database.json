@@ -1,0 +1,173 @@
+{
+    "profiles": {
+        "6440036107": {
+            "start": true,
+            "coins": 1400,
+            "champions": {
+                "hanzo": 1,
+                "leoxi": 1,
+                "jessie": 1,
+                "kayla": 1,
+                "kragthar": 1
+            }
+        },
+        "1904924310": {
+            "start": false,
+            "coins": 2000,
+            "champions": {}
+        },
+        "6061178519": {
+            "start": true,
+            "coins": 2001,
+            "champions": {}
+        },
+        "6430590480": {
+            "start": true,
+            "coins": 1900,
+            "champions": {
+                "hanzo": 1
+            }
+        },
+        "6946042356": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "1778618019": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "6509179750": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "6614617069": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "1727866111": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "6554200916": {
+            "start": true,
+            "coins": 1600,
+            "champions": {
+                "leoxi": 1,
+                "gladranox": 1,
+                "kragthar": 1,
+                "vereena": 1
+            }
+        },
+        "1895756710": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "1444258617": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "6230265985": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "5443647765": {
+            "start": true,
+            "coins": 1800,
+            "champions": {
+                "hanzo": 1,
+                "leoxi": 1
+            }
+        },
+        "1508086602": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "1297041067": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "7063946013": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "5970118782": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "2060388876": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "1786637879": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "1769345659": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "6710323404": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "6617136120": {
+            "start": false,
+            "coins": 2000,
+            "champions": {}
+        },
+        "6759095569": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "1507821455": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "5147873909": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "1856430691": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "1227758573": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "986380678": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        },
+        "5947713829": {
+            "start": true,
+            "coins": 2000,
+            "champions": {}
+        }
+    },
+    "participants": [],
+    "teams": [],
+    "shop": {}
+}
